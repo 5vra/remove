@@ -11,4 +11,4 @@ async def on_ready():
     print(f'We have logged in as {bot.user}')
     await bot.change_presence(activity=discord.Streaming(name='Galla Generator', url='https://discord.gg/robloxalts'))
 
-bot.run('MTI2MDQxNzkxMDUxMDQ1NzAwNw.G0X-rp.bE-VROL8OZMcPG0eCyn0uXvYX27_gIML5oPY5w')
+bot.run('')
